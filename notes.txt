@@ -1,0 +1,5 @@
+Colors Palletes:
+#231955
+#1F4690
+#E8AA42
+#FFE5B4

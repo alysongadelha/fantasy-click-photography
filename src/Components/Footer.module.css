@@ -1,0 +1,12 @@
+.footer__container {
+  background: #1f4690;
+  /* position: absolute;
+  bottom: 0; */
+  width: 100%;
+  color: white;
+}
+
+.footer__list {
+  display: flex;
+  list-style: none;
+}

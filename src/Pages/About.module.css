@@ -1,0 +1,10 @@
+.about__flex {
+  justify-content: space-around;
+  padding: 2rem;
+}
+.about__boxData {
+  padding: 1rem;
+  border: 0.2rem solid #231955;
+  border-radius: 5px;
+  box-shadow: 0 0 0 0.2rem #ffe5b4, 0 0 0 0.4rem #e8aa42;
+}
